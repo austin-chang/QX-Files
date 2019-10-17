@@ -1,0 +1,3 @@
+#因為 Trakt 使用了 Cloudflare 的 CDN，所以在中國會使用百度的 CDN，現在似乎中國大部分 IP 都需要輸入驗證碼，必須使用非中國大陸 IP 才能正常使用帶有 Trakt 的 API 的 App
+# > Trakt
+DOMAIN-SUFFIX,trakt.tv,Trakt

@@ -1,0 +1,1 @@
+Quantumult X profiles and icons for self-use
