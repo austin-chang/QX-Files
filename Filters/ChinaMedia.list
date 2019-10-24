@@ -1,0 +1,6 @@
+# （中國媒體）
+# > 愛奇藝台灣站
+DOMAIN-SUFFIX,iqiyi.com,中國媒體
+# > bilibili
+DOMAIN-SUFFIX,bilibili.com,中國媒體
+DOMAIN,upos-hz-mirrorakam.akamaized.net,中國媒體

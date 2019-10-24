@@ -1,0 +1,189 @@
+# （國際媒體）
+# 音樂
+# > Deezer
+USER-AGENT,Deezer*,國際媒體
+DOMAIN-SUFFIX,deezer.com,國際媒體
+DOMAIN-SUFFIX,dzcdn.net,國際媒體
+# > KKBOX
+DOMAIN-SUFFIX,kkbox.com,國際媒體
+DOMAIN-SUFFIX,kkbox.com.tw,國際媒體
+DOMAIN-SUFFIX,kfs.io,國際媒體
+# > JOOX
+USER-AGENT,WeMusic*,國際媒體
+USER-AGENT,JOOX*,國際媒體
+DOMAIN-SUFFIX,joox.com,國際媒體
+# > Pandora
+USER-AGENT,Pandora*,國際媒體
+DOMAIN-SUFFIX,pandora.com,國際媒體
+# > SoundCloud
+USER-AGENT,SoundCloud*,國際媒體
+DOMAIN-SUFFIX,p-cdn.us,國際媒體
+DOMAIN-SUFFIX,sndcdn.com,國際媒體
+DOMAIN-SUFFIX,soundcloud.com,國際媒體
+# > Spotify
+USER-AGENT,Spotify*,國際媒體
+DOMAIN-SUFFIX,pscdn.co,國際媒體
+DOMAIN-SUFFIX,scdn.co,國際媒體
+DOMAIN-SUFFIX,spotify.com,國際媒體
+DOMAIN-SUFFIX,spoti.fi,國際媒體
+# > TIDAL
+USER-AGENT,TIDAL*,國際媒體
+DOMAIN-SUFFIX,tidal.com,國際媒體
+# > YoutubeMusic
+USER-AGENT,com.google.ios.youtubemusic*,國際媒體
+USER-AGENT,YouTubeMusic*,國際媒體
+# 影片
+# > All4
+USER-AGENT,All4*,國際媒體
+DOMAIN-SUFFIX,c4assets.com,國際媒體
+DOMAIN-SUFFIX,channel4.com,國際媒體
+# > AbemaTV
+USER-AGENT,AbemaTV*,國際媒體
+DOMAIN-SUFFIX,abema.io,國際媒體
+DOMAIN-SUFFIX,abema.tv,國際媒體
+DOMAIN-SUFFIX,ameba.jp,國際媒體
+DOMAIN-SUFFIX,hayabusa.io,國際媒體
+DOMAIN,abematv.akamaized.net,國際媒體
+DOMAIN,ds-linear-abematv.akamaized.net,國際媒體
+DOMAIN,ds-vod-abematv.akamaized.net,國際媒體
+DOMAIN,linear-abematv.akamaized.net,國際媒體
+# > Amazon Prime Video
+USER-AGENT,InstantVideo.US*,國際媒體
+USER-AGENT,Prime%20Video*,國際媒體
+DOMAIN-SUFFIX,primevideo.com,國際媒體
+# > Bahamut
+USER-AGENT,Anime*,國際媒體
+DOMAIN-SUFFIX,bahamut.com.tw,國際媒體
+DOMAIN-SUFFIX,gamer.com.tw,國際媒體
+DOMAIN,gamer-cds.cdn.hinet.net,國際媒體
+DOMAIN,gamer2-cds.cdn.hinet.net,國際媒體
+# > BBC iPlayer
+USER-AGENT,BBCiPlayer*,國際媒體
+DOMAIN-SUFFIX,bbc.co.uk,國際媒體
+DOMAIN-SUFFIX,bbci.co.uk,國際媒體
+DOMAIN-KEYWORD,bbcfmt,國際媒體
+DOMAIN-KEYWORD,uk-live,國際媒體
+# > DAZN
+USER-AGENT,DAZN*,國際媒體
+DOMAIN-SUFFIX,dazn.com,國際媒體
+# > encoreTVB
+USER-AGENT,encoreTVB*,國際媒體
+DOMAIN-SUFFIX,encoretvb.com,國際媒體
+DOMAIN,edge.api.brightcove.com,國際媒體
+DOMAIN,bcbolt446c5271-a.akamaihd.net,國際媒體
+# > Fox+ & Fox Now
+USER-AGENT,FOX%20NOW*,國際媒體
+USER-AGENT,FOXPlus*,國際媒體
+DOMAIN-SUFFIX,dashasiafox.akamaized.net,國際媒體
+DOMAIN-SUFFIX,fox.com,國際媒體
+DOMAIN-SUFFIX,foxdcg.com,國際媒體
+DOMAIN-SUFFIX,foxplus.com,國際媒體
+DOMAIN-SUFFIX,staticasiafox.akamaized.net,國際媒體
+DOMAIN-SUFFIX,theplatform.com,國際媒體
+DOMAIN-SUFFIX,uplynk.com,國際媒體
+# > HBO Now & HBO GO
+USER-AGENT,HBO%20NOW*,國際媒體
+USER-AGENT,HBO%20GO*,國際媒體
+USER-AGENT,HBOAsia*,國際媒體
+DOMAIN-SUFFIX,hbo.com,國際媒體
+DOMAIN-SUFFIX,hbogo.com,國際媒體
+DOMAIN-SUFFIX,hboasia.com,國際媒體
+DOMAIN-SUFFIX,hbogo.com,國際媒體
+DOMAIN-SUFFIX,hbogoasia.hk,國際媒體
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,國際媒體
+DOMAIN,bcbolthboa-a.akamaihd.net,國際媒體
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,國際媒體
+DOMAIN,manifest.prod.boltdns.net,國際媒體
+DOMAIN,s3-ap-southeast-1.amazonaws.com,國際媒體
+# > 华文电视
+USER-AGENT,HWTVMobile*,國際媒體
+DOMAIN-SUFFIX,5itv.tv,國際媒體
+DOMAIN-SUFFIX,ocnttv.com,國際媒體
+# > Hulu
+DOMAIN-SUFFIX,hulu.com,國際媒體
+DOMAIN-SUFFIX,huluim.com,國際媒體
+DOMAIN-SUFFIX,hulustream.com,國際媒體
+# > Hulu(フールー)
+DOMAIN-SUFFIX,happyon.jp,國際媒體
+DOMAIN-SUFFIX,hulu.jp,國際媒體
+# > ITV
+USER-AGENT,ITV_Player*,國際媒體
+DOMAIN-SUFFIX,itv.com,國際媒體
+DOMAIN-SUFFIX,itvstatic.com,國際媒體
+DOMAIN,itvpnpmobile-a.akamaihd.net,國際媒體
+# > KKTV
+USER-AGENT,KKTV*,國際媒體
+USER-AGENT,com.kktv.ios.kktv*,國際媒體
+DOMAIN-SUFFIX,kktv.com.tw,國際媒體
+DOMAIN-SUFFIX,kktv.me,國際媒體
+DOMAIN,kktv-theater.kk.stream,國際媒體
+# > Line TV
+USER-AGENT,LINE%20TV*,國際媒體
+DOMAIN-SUFFIX,linetv.tw,國際媒體
+DOMAIN,d3c7rimkq79yfu.cloudfront.net,國際媒體
+# > LiTV
+DOMAIN-SUFFIX,litv.tv,國際媒體
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,國際媒體
+# > My5
+USER-AGENT,My5*,國際媒體
+DOMAIN-SUFFIX,channel5.com,國際媒體
+DOMAIN-SUFFIX,my5.tv,國際媒體
+DOMAIN,d349g9zuie06uo.cloudfront.net,國際媒體
+# > myTV_SUPER
+USER-AGENT,mytv*,國際媒體
+DOMAIN-SUFFIX,mytvsuper.com,國際媒體
+DOMAIN-SUFFIX,tvb.com,國際媒體
+# > Netflix
+USER-AGENT,Argo*,國際媒體
+DOMAIN-SUFFIX,netflix.com,國際媒體
+DOMAIN-SUFFIX,netflix.net,國際媒體
+DOMAIN-SUFFIX,nflxext.com,國際媒體
+DOMAIN-SUFFIX,nflximg.com,國際媒體
+DOMAIN-SUFFIX,nflximg.net,國際媒體
+DOMAIN-SUFFIX,nflxso.net,國際媒體
+DOMAIN-SUFFIX,nflxvideo.net,國際媒體
+IP-CIDR,23.246.0.0/18,國際媒體
+IP-CIDR,37.77.184.0/21,國際媒體
+IP-CIDR,45.57.0.0/17,國際媒體
+IP-CIDR,64.120.128.0/17,國際媒體
+IP-CIDR,66.197.128.0/17,國際媒體
+IP-CIDR,108.175.32.0/20,國際媒體
+IP-CIDR,192.173.64.0/18,國際媒體
+IP-CIDR,198.38.96.0/19,國際媒體
+IP-CIDR,198.45.48.0/20,國際媒體
+# > niconico
+USER-AGENT,Niconico,國際媒體
+DOMAIN-SUFFIX,dmc.nico,國際媒體
+DOMAIN-SUFFIX,nicovideo.jp,國際媒體
+DOMAIN-SUFFIX,nimg.jp,國際媒體
+DOMAIN-SUFFIX,socdm.com,國際媒體
+# > PBS
+USER-AGENT,PBS*,國際媒體
+DOMAIN-SUFFIX,pbs.org,國際媒體
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com,國際媒體
+DOMAIN-SUFFIX,pornhub.com,國際媒體
+DOMAIN-SUFFIX,pornhubpremium.com,國際媒體
+# > 台灣好
+USER-AGENT,TaiwanGood*,國際媒體
+DOMAIN-SUFFIX,skyking.com.tw,國際媒體
+DOMAIN,hamifans.emome.net,國際媒體
+# > Twitch
+DOMAIN-SUFFIX,twitch.tv,國際媒體
+DOMAIN-SUFFIX,twitchcdn.net,國際媒體
+DOMAIN-SUFFIX,ttvnw.net,國際媒體
+# > ViuTV
+USER-AGENT,Viu*,國際媒體
+USER-AGENT,ViuTV*,國際媒體
+DOMAIN-SUFFIX,viu.com,國際媒體
+DOMAIN-SUFFIX,viu.tv,國際媒體
+DOMAIN,api.viu.now.com,國際媒體
+DOMAIN,d1k2us671qcoau.cloudfront.net,國際媒體
+DOMAIN,d2anahhhmp1ffz.cloudfront.net,國際媒體
+DOMAIN,dfp6rglgjqszk.cloudfront.net,國際媒體
+# > Youtube
+USER-AGENT,com.google.ios.youtube*,國際媒體
+USER-AGENT,YouTube*,國際媒體
+DOMAIN-SUFFIX,googlevideo.com,國際媒體
+DOMAIN-SUFFIX,youtube.com,國際媒體
+DOMAIN,youtubei.googleapis.com,國際媒體
