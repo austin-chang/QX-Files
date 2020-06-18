@@ -13,10 +13,3 @@ Browse TikTok with Chinese carrier
     (?<=version_code=)\d{1,}.\d{1}\.\d{1} url 307 14.0.0
     
     hostname = api*.tiktokv.com, api*.musical.ly, api*.amemv.com, aweme*.snssdk.com
-
-Working Copy
-
-    [rewrite_local]
-    ^https:\/\/education\.github\.com\/api\/user$ url script-response-body workingcopy.js
-    
-    hostname = education.github.com
