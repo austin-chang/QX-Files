@@ -1,1 +1,1 @@
-自用設定檔
+Configs for personal use
