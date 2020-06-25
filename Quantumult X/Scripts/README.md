@@ -1,3 +1,10 @@
+Mimo
+
+    [rewrite_local]
+    ^https:\/\/api\.getmimo\.com\/v1\/subscriptions$ url script-response-body mimo.vip.js
+    
+    hostname = api.getmimo.com
+    
 Netflix Rating
 
     [rewrite_local]
