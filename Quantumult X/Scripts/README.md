@@ -4,6 +4,13 @@ Mimo
     ^https:\/\/api\.getmimo\.com\/v1\/subscriptions$ url script-response-body mimo.vip.js
     
     hostname = api.getmimo.com
+
+Musixmatch
+
+    [rewrite_local]
+	^https:\/\/apic\.musixmatch\.com\/ws\/.*\/config\.get url script-response-body musixmatch.miao.js
+	
+	hostname = apic.musixmatch.com
     
 Netflix Rating
 
