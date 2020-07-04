@@ -1,4 +1,5 @@
 Configs for personal use
 
 # Thanks to:
-* [https://github.com/langkhach270389/Scripting langkhach270389]
+* [langkhach270389](https://github.com/langkhach270389/Scripting)
+* [Divine Engine] (https://github.com/DivineEngine/Profiles)
