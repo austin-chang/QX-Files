@@ -1,2 +1,8 @@
 # > Notion
 DOMAIN-SUFFIX,notion.so,Notion
+DOMAIN-SUFFIX,amazonaws.com,Notion
+DOMAIN-SUFFIX,amplitude.com,Notion
+DOMAIN-SUFFIX,intercom.io,Notion
+DOMAIN-SUFFIX,intercomcdn.com,Notion
+DOMAIN-SUFFIX,loggly.com,Notion
+DOMAIN-SUFFIX,segment.com,Notion
