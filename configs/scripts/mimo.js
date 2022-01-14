@@ -1,3 +1,11 @@
+/*
+[rewrite_local]
+^https:\/\/api\.getmimo\.com\/v1\/subscriptions$ url script-response-body https://raw.githubusercontent.com/doomnor/qx-configs/master/configs/scripts/mimo.js
+
+[mitm]
+hostname = api.getmimo.com
+*/
+
 var obj = JSON.parse($response.body);
 
 obj= {
