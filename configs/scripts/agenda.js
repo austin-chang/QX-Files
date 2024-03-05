@@ -3,7 +3,7 @@
 Agenda：https://apps.apple.com/app/id1370289240
 
 [rewrite_local]
-^https?:\/\/accounts\.agenda\.com\/users url script-response-body https://raw.githubusercontent.com/loganteo/qx-configs/main/config/scriptsagenda.js
+^https?:\/\/accounts\.agenda\.com\/users url script-response-body https://raw.githubusercontent.com/loganteo/qx-configs/main/config/scripts/agenda.js
 
 [MITM]
 hostname = accounts.agenda.com
