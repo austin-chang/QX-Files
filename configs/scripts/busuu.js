@@ -3,7 +3,7 @@
 Busuu: https://apps.apple.com/app/id379968583
 
 [rewrite_local]
-^https?:\/\/api\.(busuu|boshu)\.(com|cn)\/users\/me url script-response-body https://raw.githubusercontent.com/loganteo/qx-configs/main/config/scripts/busuu.js
+^https?:\/\/api\.(busuu|boshu)\.(com|cn)\/users\/me url script-response-body https://raw.githubusercontent.com/loganteo/qx-configs/master/configs/scripts/busuu.js
 
 [MITM]
 hostname = api.busuu.com

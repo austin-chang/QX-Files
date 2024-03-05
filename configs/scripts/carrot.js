@@ -3,7 +3,7 @@
 CARROT: https://apps.apple.com/app/id961390574
 
 [rewrite_local]
-^https?:\/\/carrotweather\.herokuapp\.com\/parse\/functions\/findSubscriptionsForUserId url script-response-body https://raw.githubusercontent.com/loganteo/qx-configs/main/config/scripts/CARROTWeather.js
+^https?:\/\/carrotweather\.herokuapp\.com\/parse\/functions\/findSubscriptionsForUserId url script-response-body https://raw.githubusercontent.com/loganteo/qx-configs/master/configs/scripts/CARROTWeather.js
 
 [MITM]
 hostname = carrotweather.herokuapp.com
