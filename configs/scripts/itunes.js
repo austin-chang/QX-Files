@@ -1,7 +1,7 @@
 /*
 
 [rewrite_local]
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/loganteo/qx-configs/main/APPheji_iTunes.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/loganteo/qx-configs/main/config/scriptsAPPheji_iTunes.js
 
 [MITM]
 hostname = buy.itunes.apple.com
